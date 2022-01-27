@@ -1,37 +1,124 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="lv">
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<head>
+<title>Gremošana</title>
+</head>
 
-You can use the [editor on GitHub](https://github.com/elanb-irman/elanb-irman.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<section>
+  <h1>Saturs</h1>
+  <nav>
+    <ul>
+      <li><a href="#gremosanassistema">Gremošanas sistēma</a></li>
+      <li><a href="#mutesdobums">Mutes dobums</a></li>
+      <li><a href="#rikleunbaribasvads">Rīkle un barības vads</a></li>
+      <li><a href="#kungis">Kuņģis</a></li>
+      <li><a href="#12pirkstuzarna">Divpadsmitpirkstu zarna, aknas, žultpūslis, aizkuņģa dziedzeris</a></li>
+      <li><a href="#zarnutrakts">Zarnu trakts</a></li>
+      <li><a href="#baribagremosanalaiks">Barības sagremošanas laiks</a></li>
+    </ul>
+  </nav>
+</section>
 
-### Markdown
+<section>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <h1 id="gremosanassistema">Gremošanas sistēma</h1>
 
-```markdown
-Syntax highlighted code block
+  <p><b>Gremošanas sistēma ir orgānu komplekss, kas nodrošina barības uzņemšanu un sagremošanu, barības vielu uzsūkšanas un barības pārpalikuma izvadīšanu.</b></p>
+<p>Gremošanas sistēmas orgāni ir mutes dobums, rīkle, barības vads, kuņģis, aknas(kopā ar žultpūsli), aizkuņģa dziedzeris, zarnu trakts:</p>
+<img src="https://uzd-resources.azureedge.net/800a3106-f6db-4896-934f-8c86acb7f787/ITB_12_02_06.jpg">
+  <article>
+    <div>
+      <h2 id="mutesdobums">Mutes dobums</h2>
+      <p><b>Mutes dobumu no ārpuses atdala lūpas un mutes atvere.</b></p>
+      <p><b>Mutes dobums satur zobus, mēli, siekalas(siekalu dziedzeri):</b></p>
+      <ul>
+        <li>Zobi sasmalcina barību.</li>
+        <li>Siekalas šķīdinā barības un sašķeļ ogļhidrātus, jo tās satur enzīmu amilāze.</li>
+        <li>Uz mēles atrodas garšas kārpiņas un gļotu dziedzeri, kas izdala gļotas, kas samitrina tos kārpiņas.</li>
+      </ul>
+    </div>
 
-# Header 1
-## Header 2
-### Header 3
+    <div>
+      <h2 id="rikleunbaribasvads">Rīkle un barības vads</h2>
+      <ul>
+        <li>Rīkle nodrošina elpceļu aizvēršanu, kad barība nonāk barības vadā, un barības vada aizvēršanu, kad elpceļos nonāk gaiss un/vai izvadās ogļskāba gāze no tās.</li>
+        <li>Barības vads savieno rīkli ar kuņģi, lai barība varētu nonākt kuņģī.</li>
+      </ul>
+    </div>
 
-- Bulleted
-- List
+    <div>
+      <h2 id="kungis">Kuņģis</h2>
+      <p><b>Kuņģis satur:</b></p>
+      <ul>
+        <li>Enzīmu pepsīnu, kas sašķeļ olbatumvielas.</li>
+        <li>Sālsskābi, kas veido pepsīnam nepieciešamo skābo vidi.</li>
+        <li>Gļotu dzidzeri, kas izdala gļotas, lai pasargātu kuņģi no skābajām vielām.</li>
+      </ul>
+    </div>
 
-1. Numbered
-2. List
+    <div>
+      <h2 id="12pirkstuzarna">Divpadsmitpirkstu zarna</h2>
+      <p>Divpadsmitpirkstu zarnā nonāk vēl nesagremota barība, ieplūst <b>žults</b>(kas veidojas aknās(no aknām arī izdālās hormons insulīns, kuram ir būtiskā nozīme cukuru vielmaiņā) un uzkrājas žultpūslī), kas satur <b>žultskābes</b>, kas sadala taukus sīkos pilienos un nodrošina tā uzsūkšanas, <b>aizkuņģa dziedzera sula</b>, kas satur enzīmus tripsīnu(sašķeļ olbatumvielas), amilāzi(sašķeļ ogļhidrātus), lipāzi(sašķeļ taukus).</p>
+    </div>
 
-**Bold** and _Italic_ and `Code` text
+    <div>
+    <h2 id="zarnutrakts">Zarnu trakts</h2>
+    <p><b>Zarnu traktu var sadalīt:</b></p>
+    <ul>
+      <li><b>Tievā zarna</b> - visgārākā gremošanas sistēmas daļa, kura ir gālvenā barības vielu uzsūkšanas vieta.</li>
+      <li><b>Resnā zarna</b> - tur nonāk nesagremotie barības pārpalikumi un ūdens. Ūdens un citi sāļi uzsūcas, bet pārējais veido izkārnījumus.</li>
+      <li>Izkārnījumi izvadās caur ānusu(resnās zarnas pēdējais posms).</li>
+    </ul>
+    </div>
+  </article>
 
-[Link](url) and ![Image](src)
-```
+</section>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<section>
+  <h1 id="baribagremosanalaiks"; style="text-align:center;">Barību sagremošanas laiks</h1>
+  <table>
+    <tr>
+      <th>Barība</th>
+      <th>Sagremošanas laiks</th>
+    </tr>
+    <tr>
+      <td>Ūdens</td>
+      <td>0h</td>
+    </tr>
+    <tr>
+      <td>Augļi un dārzeņi</td>
+      <td>20-30 min</td>
+    </tr>
+    <tr>
+      <td>Pākšaugi</td>
+      <td>90 min</td>
+    </tr>
+    <tr>
+      <td>Tēja, kafija, kakao, buljons, piens, olas, rīsi, tvaicēta upes zivs</td>
+      <td>1-2h</td>
+    </tr>
+    <tr>
+      <td>Cieti novārītas olas, omlete, tvaicēta jūras zivs, vārīts kartupelis, maize</td>
+      <td>2-3h</td>
+    </tr>
+    <tr>
+      <td>Vista un vārīta cūkgaļa, rudzu maize, āboli, burkāni, redīsi, spināti, gurķi, cepti kartupeļi, šķiņķis</td>
+      <td>3-4h</td>
+    </tr>
+    <tr>
+      <td>Pupiņas, pelēkie zirņi, meža gaļa, siļķe, cepta, grilēta gaļa</td>
+      <td>4-5h</td>
+    </tr>
+  </table>
+</section>
 
-### Jekyll Themes
+</body>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elanb-irman/elanb-irman.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
