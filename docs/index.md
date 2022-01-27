@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="lv">
 <head>
-<title>Gremošana</title>
 </head>
 
 <body>
