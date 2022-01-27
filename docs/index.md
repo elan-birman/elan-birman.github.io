@@ -75,7 +75,6 @@
 </section>
 
 <section>
-<h1 id="baribagremosanalaiks"; style="text-align:center;">Barību sagremošanas laiks</h1>
   <table>
     <tr>
       <th>Barība</th>
