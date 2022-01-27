@@ -122,6 +122,7 @@ table, th, td {
     <ul>
       <li>Mācību grāmata: Bioloģija 9. klasei (2013. gads - Regīna Gribuste, Daiga Brante)</li>
       <li><a href="https://theb.lv/b/cik-ilgi-sagremojas-ediens-ko-apedam/">Cik ilgi sagremojas ēdiens, ko apēdam?</a></li>
+      <li><a href="https://uzd-resources.azureedge.net/800a3106-f6db-4896-934f-8c86acb7f787/ITB_12_02_06.jpg">Uzdevumi.lv</a></li>
     </ul>
   </section>
 </body>
