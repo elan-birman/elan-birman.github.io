@@ -74,7 +74,7 @@
 
   <article>
     <div>
-  <h2>Barības sagremošanas laiks</h2>
+  <h2 id="baribagremosanalaiks";>Barības sagremošanas laiks</h2>
   <table>
     <style>
 table, th, td {
