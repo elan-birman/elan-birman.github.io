@@ -72,9 +72,8 @@
     </div>
   </article>
 
-</section>
-
-<section>
+  <article>
+    <div>
   <h2>Barības sagremošanas laiks</h2>
   <table>
     <style>
@@ -115,6 +114,8 @@ table, th, td {
       <td>4-5h</td>
     </tr>
   </table>
+    </div>
+    </article>
 </section>
 
   <section>
