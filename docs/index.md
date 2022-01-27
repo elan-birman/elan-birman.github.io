@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="lv">
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
 <head>
 <title>Gremošana</title>
 </head>
