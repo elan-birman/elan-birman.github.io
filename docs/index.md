@@ -75,6 +75,7 @@
 </section>
 
 <section>
+  <h2>Barības sagremošanas laiks</h2>
   <table>
     <style>
 table, th, td {
