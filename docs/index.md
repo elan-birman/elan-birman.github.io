@@ -30,7 +30,7 @@
     <div>
       <h2 id="mutesdobums">Mutes dobums</h2>
       <p><b>Mutes dobumu no ārpuses atdala lūpas un mutes atvere.</b></p>
-      <p><b>Mutes dobums satur zobus, mēli, siekalas(siekalu dziedzeri):</b></p>
+      <p><b>Mutes dobums satur zobus, mēli, siekalas(siekalu dziedzerus):</b></p>
       <ul>
         <li>Zobi sasmalcina barību.</li>
         <li>Siekalas šķīdinā barības un sašķeļ ogļhidrātus, jo tās satur enzīmu amilāze.</li>
@@ -51,7 +51,7 @@
       <p><b>Kuņģis satur:</b></p>
       <ul>
         <li>Enzīmu pepsīnu, kas sašķeļ olbatumvielas.</li>
-        <li>Sālsskābi, kas veido pepsīnam nepieciešamo skābo vidi.</li>
+        <li>Sālsskābi, kas veido pepsīnam nepieciešāmo skābo vidi.</li>
         <li>Gļotu dzidzeri, kas izdala gļotas, lai pasargātu kuņģi no skābajām vielām.</li>
       </ul>
     </div>
