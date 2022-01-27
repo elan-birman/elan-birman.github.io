@@ -76,6 +76,11 @@
 
 <section>
   <table>
+    <style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
     <tr>
       <th>Barība</th>
       <th>Sagremošanas laiks</th>
