@@ -120,7 +120,7 @@ table, th, td {
   <section>
     <h3>Avoti</h3>
     <ul>
-      <li>Mācību grāmata: Bioloģija 9. klasei (Regīna Gribuste, Daiga Brante)</li>
+      <li>Mācību grāmata: Bioloģija 9. klasei (2013. gads - Regīna Gribuste, Daiga Brante)</li>
       <li><a href="https://theb.lv/b/cik-ilgi-sagremojas-ediens-ko-apedam/">Cik ilgi sagremojas ēdiens, ko apēdam?</a></li>
     </ul>
   </section>
