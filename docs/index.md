@@ -82,9 +82,7 @@
     </ul>
     </div>
   </article>
-  </section>
 
-  <section>
   <article>
     <div>
   <h2 style="text-align:center;" id="baribagremosanalaiks">Barības sagremošanas laiks</h2>
@@ -124,9 +122,7 @@
   </table>
     </div>
     </article>
-    </section>
 
-  <section>
     <h2 style="text-align:center;">Avoti</h2>
     <ul>
       <li>Mācību grāmata: Bioloģija 9. klasei (2013. gads - Regīna Gribuste, Daiga Brante)</li>
