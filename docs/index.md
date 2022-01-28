@@ -1,27 +1,38 @@
 <html lang="lv">
 <head>
+  <title>Ilans Birmans - 9. klases bioloģijas konspektu krājums</title>
+  <style>
+   table, th, td {
+   border:1px solid black;
+   }
+  </style>
 </head>
 
 <body>
-
+<h1 style="text-align:center;">Ilans Birmans - 9. klases bioloģijas konspektu krājums.</h1>
 <section>
   <h1>Saturs</h1>
   <nav>
     <ul>
-      <li><a href="#gremosanassistema">Gremošanas sistēma</a></li>
-      <li><a href="#mutesdobums">Mutes dobums</a></li>
-      <li><a href="#rikleunbaribasvads">Rīkle un barības vads</a></li>
-      <li><a href="#kungis">Kuņģis</a></li>
-      <li><a href="#12pirkstuzarna">Divpadsmitpirkstu zarna, aknas, žultpūslis, aizkuņģa dziedzeris</a></li>
-      <li><a href="#zarnutrakts">Zarnu trakts</a></li>
-      <li><a href="#baribagremosanalaiks">Barības sagremošanas laiks</a></li>
+      <li><a href="#gremosana">Gremošana</a></li>
+      <ul>
+        <li><a href="#gremosanassistema">Gremošanas sistēma</a></li>
+        <li><a href="#mutesdobums">Mutes dobums</a></li>
+        <li><a href="#rikleunbaribasvads">Rīkle un barības vads</a></li>
+        <li><a href="#kungis">Kuņģis</a></li>
+        <li><a href="#12pirkstuzarna">Divpadsmitpirkstu zarna, aknas, žultpūslis, aizkuņģa dziedzeris</a></li>
+        <li><a href="#zarnutrakts">Zarnu trakts</a></li>
+        <li><a href="#baribagremosanalaiks">Barības sagremošanas laiks</a></li>
+      </ul>
     </ul>
   </nav>
 </section>
 
 <section>
 
-  <h1 id="gremosanassistema">Gremošanas sistēma</h1>
+  <h1 style="text-align:center;" id="gremosana">GREMOŠANA</h1>
+
+  <h2 style="text-align:center;" id="gremosanassistema">Gremošanas sistēma</h2>
 
   <p><b>Gremošanas sistēma ir orgānu komplekss, kas nodrošina barības uzņemšanu un sagremošanu, barības vielu uzsūkšanas un barības pārpalikuma izvadīšanu.</b></p>
 <p>Gremošanas sistēmas orgāni ir mutes dobums, rīkle, barības vads, kuņģis, aknas(kopā ar žultpūsli), aizkuņģa dziedzeris, zarnu trakts:</p>
@@ -71,16 +82,13 @@
     </ul>
     </div>
   </article>
+  </section>
 
+  <section>
   <article>
     <div>
-  <h2 id="baribagremosanalaiks";>Barības sagremošanas laiks</h2>
-  <table>
-    <style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
+  <h2 style="text-align:center;" id="baribagremosanalaiks">Barības sagremošanas laiks</h2>
+  <table style="text-align:center;" align="center">
     <tr>
       <th>Barība</th>
       <th>Sagremošanas laiks</th>
@@ -116,14 +124,14 @@ table, th, td {
   </table>
     </div>
     </article>
-</section>
+    </section>
 
   <section>
-    <h3>Avoti</h3>
+    <h2 style="text-align:center;">Avoti</h2>
     <ul>
       <li>Mācību grāmata: Bioloģija 9. klasei (2013. gads - Regīna Gribuste, Daiga Brante)</li>
       <li><a href="https://theb.lv/b/cik-ilgi-sagremojas-ediens-ko-apedam/">Cik ilgi sagremojas ēdiens, ko apēdam?</a></li>
-      <li><a href="https://uzd-resources.azureedge.net/800a3106-f6db-4896-934f-8c86acb7f787/ITB_12_02_06.jpg">Uzdevumi.lv</a></li>
+      <li><a href="https://www.uzdevumi.lv/p/biologija/12-klase/barosanas-7697/re-a9cc7fe5-50b2-4659-90ba-a25d5fc969a3">www.uzdevumi.lv (foto)</a></li>
     </ul>
   </section>
 </body>
