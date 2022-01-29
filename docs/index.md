@@ -34,7 +34,7 @@
 
   <h2 style="text-align:center;" id="gremosanassistema">Gremošanas sistēma</h2>
 
-  <p>__Gremošanas sistēma ir orgānu komplekss, kas nodrošina barības uzņemšanu un sagremošanu, barības vielu uzsūkšanas un barības pārpalikuma izvadīšanu.__</p>
+  <p><b>Gremošanas sistēma ir orgānu komplekss, kas nodrošina barības uzņemšanu un sagremošanu, barības vielu uzsūkšanas un barības pārpalikuma izvadīšanu.</b></p>
 <p>Gremošanas sistēmas orgāni ir mutes dobums, rīkle, barības vads, kuņģis, aknas(kopā ar žultpūsli), aizkuņģa dziedzeris, zarnu trakts:</p>
 <img src="https://uzd-resources.azureedge.net/800a3106-f6db-4896-934f-8c86acb7f787/ITB_12_02_06.jpg">
   <article>
