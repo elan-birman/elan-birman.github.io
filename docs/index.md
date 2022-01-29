@@ -40,7 +40,7 @@
   <article>
     <div>
       <h2 id="mutesdobums">Mutes dobums</h2>
-      <p><b>*Mutes dobumu no ārpuses atdala lūpas un mutes atvere.*</b></p>
+      <p>**Mutes dobumu no ārpuses atdala lūpas un mutes atvere.**</p>
       <p><b>Mutes dobums satur zobus, mēli, siekalas(siekalu dziedzerus):</b></p>
       <ul>
         <li>Zobi sasmalcina barību.</li>
