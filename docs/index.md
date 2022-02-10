@@ -67,7 +67,7 @@
 
 <section>
 
-  <h1 style="text-align:center;" id="limfrite">LIMFRITE
+  <h1 style="text-align:center;" id="limfrite">LIMFRITE</h1>
 </section>
 
 <section>
