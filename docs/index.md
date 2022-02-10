@@ -14,6 +14,13 @@
   <h1>Saturs</h1>
   <nav>
     <ul>
+      <li><a href="#cilvekusistematika">Cilvēku sistemātika</a></li>
+      <li><a href="#dzivniekusuna">Dzīvnieku (cilvēku) šūnas uzbūve</a></li>
+      <li><a href="#audi">Audi</a></li>
+      <li><a href="#vairosanasunattistiba">Vairošanās un attīstība</a></li>
+      <li><a href="#asinsrite">Asinsrite</a></li>
+      <li><a href="#limfrite">Limfrite</a></li>
+      <li><a href="#elposana">Elpošana</a></li>
       <li><a href="#gremosana">Gremošana</a></li>
       <ul>
         <li><a href="#gremosanassistema">Gremošanas sistēma</a></li>
@@ -26,6 +33,47 @@
       </ul>
     </ul>
   </nav>
+</section>
+
+<section>
+
+  <h1 style="text-align:center;" id="cilvekusistematika">CILVĒKU SISTEMĀTIKA</h1>
+
+</section>
+
+<section>
+
+  <h1 style="text-align:center;" id="dzivniekusuna">DZĪVNIEKU (CILVĒKU) ŠUNAS UZBŪVE</h1>
+
+</section>
+
+<section>
+
+  <h1 style="text-align:center;" id="audi">AUDI</h1>
+
+</section>
+
+<section>
+
+  <h1 style="text-align:center;" id="vairosanasunattistiba">VAIROŠANĀS UN ATTĪSTĪBA</h1>
+
+</section>
+
+<section>
+
+  <h1 style="text-align:center;" id="asinsrite">ASINSRITE</h1>
+
+</section>
+
+<section>
+
+  <h1 style="text-align:center;" id="limfrite">LIMFRITE
+</section>
+
+<section>
+
+  <h1 style="text-align:center;" id="elposana">ELPOŠANA</h1>
+
 </section>
 
 <section>
